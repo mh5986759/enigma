@@ -160,8 +160,8 @@ LocksHelp = [[
 
 ⚜ تنظیمات
 ━━━━━━━━━━━━━━━━━━
-    🔱 [~ <b>EniGma</b>™ ~] 🔱
-     » [ @EnigmaTM ] «
+       🔱 [~ <b>GPMOD</b>™ ~] 🔱
+     » [ @MohammadHasanMrad ] «
 ]]
 
 FilterHelp = [[
@@ -196,8 +196,8 @@ FilterHelp = [[
 
 » در این قسمت عبارت "احمق" رفع فیلتر خواهد شد.
 ➖➖➖➖
-    🔱 [~ <b>EniGma</b>™ ~] 🔱
-     » [ @EnigmaTM ] «
+       🔱 [~ <b>GPMOD</b>™ ~] 🔱
+     » [ @MohammadHasanMrad ] «
 ]]
 
 
@@ -231,8 +231,8 @@ GroupInformationHelp = [[
 لینک
 
 ➖➖➖➖
-    🔱 [~ <b>EniGma</b>™ ~] 🔱
-     » [ @EnigmaTM ] «
+    🔱 [~ <b>GPMOD</b>™ ~] 🔱
+     » [ @MohammadHasanMrad ] «
 ]]
 
 
