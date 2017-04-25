@@ -227,12 +227,12 @@ function create_config( )
 		"azan",
 		"rep"
     },
-    sudo_users = {201707431,0}, --Sudo users
+    sudo_users = {342293523,0}, --Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-	TeleEnigma Bot !
-		<b>Powered By Enigma</b>
-				@EnigmaTM
+	GPMOD Bot !
+		<b>Powered By Mohammad</b>
+				@MohammadhasanMrad
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
